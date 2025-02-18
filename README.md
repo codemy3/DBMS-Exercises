@@ -15,7 +15,7 @@ It includes various exercises covering **table creation, constraints, triggers, 
 ## 📖 How to Use These Scripts?  
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/YOUR_USERNAME/DBMS-Exercises.git
+   git clone https://github.com/codemy3/DBMS-Exercises.git
    cd DBMS-Exercises
 
 ## 🔗 Contributing
