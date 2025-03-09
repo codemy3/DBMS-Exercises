@@ -1,4 +1,4 @@
-# 📌 DBMS Exercises Repository  
+# 📌 DBMS Exercises Repository 
 
 This repository contains SQL and PL/SQL scripts for **Database Management System (DBMS) practice**.  
 It includes various exercises covering **table creation, constraints, triggers, stored functions, and set operations**.  
